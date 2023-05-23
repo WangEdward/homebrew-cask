@@ -23,4 +23,8 @@ cask "youtube-music" do
     "~/Library/Preferences/com.github.th-ch.youtube-music.plist",
     "~/Library/Saved Application State/com.github.th-ch.youtube-music.savedState",
   ]
+
+  caveats do
+    unsigned_accessibility
+  end
 end
