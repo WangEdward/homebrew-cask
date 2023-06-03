@@ -5,6 +5,7 @@ on:
     - cron:  '0 */2 * * *'
 
   workflow_dispatch:  # click the button on Github repo!
+  pull_request:
 
 jobs:
   sync_latest_from_upstream:
