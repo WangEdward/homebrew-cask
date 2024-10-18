@@ -49,6 +49,7 @@ android-studio-preview@beta
 android-studio-preview@canary
 anki
 ankiapp
+another-redis-desktop-manager
 anydesk
 anydo
 anythingllm
@@ -133,6 +134,7 @@ camo-studio
 camtasia
 camunda-modeler
 canva
+cap
 capacities
 captain
 carbon-copy-cloner
@@ -391,6 +393,7 @@ google-cloud-sdk
 gpg-suite@nightly
 gpxsee
 gqrx
+graalvm-jdk@21
 grammarly-desktop
 grandtotal
 gridtracker
@@ -411,6 +414,7 @@ hhkb-studio
 holavpn
 home-assistant
 hoppscotch
+houdahspot
 hstracker
 http-toolkit
 hydrus-network
@@ -438,6 +442,7 @@ iterm2
 iterm2@beta
 iterm2@nightly
 ivideonserver
+jabra-direct
 jami
 jamie
 jan
@@ -528,6 +533,7 @@ markedit
 mcreator
 mdrp
 media-center
+mediahuman-youtube-downloader
 mediainfo
 mediamate
 melodics
@@ -575,6 +581,7 @@ mmhmm
 mmhmm-studio
 mochi
 mochi-diffusion
+modrinth
 monal
 monal@beta
 monarch
@@ -649,6 +656,7 @@ onekey
 opal-composer
 openaudible
 opencat
+opencore-configurator
 openlens
 openrct2
 openscad@snapshot
@@ -756,6 +764,7 @@ qq
 qqlive
 qqmusic
 qt-creator
+qt-creator@dev
 quarto
 quickbooks
 quicken
@@ -770,6 +779,7 @@ rapidweaver
 razorsql
 readdle-spark
 reader
+readmoreading
 readyapi
 reaper
 receipts
@@ -886,6 +896,7 @@ steermouse
 steinberg-activation-manager
 studio-3t
 sublime-text@dev
+sunsama
 superhuman
 superkey
 superlist
@@ -894,6 +905,7 @@ superproductivity
 surfshark
 surge
 swiftformat-for-xcode
+sync
 syncovery
 syncthing
 tabby
@@ -1034,6 +1046,7 @@ windscribe
 wing-personal
 wins
 wire
+wirecast
 wondershare-uniconverter
 wordpresscom-studio
 workflowy
